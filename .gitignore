@@ -2,5 +2,3 @@ CellSegEnv/
 Data/**/*.tiff
 Data/**/*.png
 !Data/example/test.png
-
-
