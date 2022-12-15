@@ -2,7 +2,7 @@ CellSegEnv/
 Data/**/*.tiff
 Data/**/*.png
 !Data/example/test.png
-!Data/raw/cropped_cell_im.png
-!Data/mask/cropped_cell_mask.png
+!Data/raw/*.png
+!Data/mask/*.png
 
 
