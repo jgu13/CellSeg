@@ -1,7 +1,7 @@
 CellSegEnv/
 Data/**/*.tiff
 Data/**/*.png
-!Data/example/test.png
+!Data/example/*.png
 !Data/raw/*.png
 !Data/mask/*.png
 
