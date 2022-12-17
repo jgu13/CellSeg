@@ -3,6 +3,9 @@ Data/**/*.tiff
 Data/**/*.png
 !Data/example/*.png
 !Data/raw/*.png
+!Data/raw/t2.tiff
+!Data/raw/t1.tiff
 !Data/mask/*.png
-
+!Data/mask/t2_mask.tiff
+!Data/mask/t1_mask.tiff
 
